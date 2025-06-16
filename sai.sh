@@ -3,7 +3,7 @@
 # === CONFIG ===
 JFROG_URL="https://trialuql2s4.jfrog.io/artifactory"
 REPO="esb-cloudhub-snapshot-local"
-REPO_NAMES=("account-btw-biz" "billing-api" "another-service")  # Add more repo names here
+REPO_NAMES=("account-btw-biz" "account-management-biz" "account-recovery-biz")  # Add more repo names here
 USERNAME="shrimadhu119@gmail.com"
 API_KEY="cmVmdGtuOjAxOjE3ODEyNTM5MzE6NDN6cEdMcWlSZ0dhc0I4aTI5aXRjOXpUYWFr"
 KEEP_JARS=2        # Keep latest 2 JARs per version folder
